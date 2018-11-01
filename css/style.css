@@ -53,14 +53,14 @@ html, body{
 .geomanist-light{
   font-family: 'geomanist-light' !important;
 }
-.changeBodyHeadline{
+h2 .changeBodyHeadline{
 margin-left:20px;
 }
 h2.changeheadline{
 margin-left:20px;
 color:green;
 }
-h2 .sectionContainer{
+.sectionContainer{
     display: flex;
     flex-direction: row;
     width: 500px;
