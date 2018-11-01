@@ -56,9 +56,8 @@ html, body{
 h2 .changeBodyHeadline{
 margin-left:20px;
 }
-h2.changeheadline{
-margin-left:20px;
-color:green;
+h2 .changeheadline{
+margin-left:100px;
 }
 .sectionContainer{
     display: flex;
