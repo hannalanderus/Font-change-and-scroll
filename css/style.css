@@ -70,6 +70,7 @@ margin-left:100px;
   height: 30px;
   background-color: white;
   margin:20px;
+  margin-top:-20px;
 }
 select{
  border: none;
