@@ -53,7 +53,16 @@ html, body{
 .geomanist-light{
   font-family: 'geomanist-light' !important;
 }
-
+#headlineWrapper{
+  display:flex;
+  justify-content:space-around;
+  flex-direction:row;
+}
+#selectionContainer{
+  display:flex;
+  jusify-content:space-around;
+  flex-direction:row;
+}
 #selectionWrapper{
   width: 200px;
   height: 30px;
