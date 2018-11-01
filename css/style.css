@@ -53,12 +53,12 @@ html, body{
 .geomanist-light{
   font-family: 'geomanist-light' !important;
 }
-#headlineWrapper{
+.headlineWrapper{
   display:flex;
   justify-content:space-around;
   flex-direction:row;
 }
-#selectionContainer{
+.selectionContainer{
   display:flex;
   jusify-content:space-around;
   flex-direction:row;
