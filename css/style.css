@@ -58,7 +58,7 @@ html, body{
   justify-content:space-around;
   flex-direction:row;
 }
-.selectionContainer{
+.sectionContainer{
   display:flex;
   jusify-content:space-around;
   flex-direction:row;
